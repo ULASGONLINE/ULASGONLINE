@@ -2,6 +2,7 @@
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Software Companies
+- 👀 2006 Times Magazine Person of the Year
 - 📫 You can reach here
 
 <!---
